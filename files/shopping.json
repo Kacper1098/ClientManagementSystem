@@ -1,0 +1,317 @@
+[
+  {
+    "customer": {
+      "firstName": "Aleta",
+      "lastName": "Satterfield",
+      "age": 39,
+      "cash": 4084.3
+    },
+    "products": [
+      {
+        "name": "CARDIGAN",
+        "category": "CLOTHES",
+        "price": 253.7
+      },
+      {
+        "name": "Dog toy",
+        "category": "PETS",
+        "price": 33.0
+      },
+      {
+        "name": "WASHER",
+        "category": "AGD",
+        "price": 1914.0
+      },
+      {
+        "name": "HAT",
+        "category": "CLOTHES",
+        "price": 108.8
+      },
+      {
+        "name": "Hobbit",
+        "category": "BOOKS",
+        "price": 33.9
+      },
+      {
+        "name": "LETTUCE",
+        "category": "FOOD",
+        "price": 5.5
+      },
+      {
+        "name": "JACKET",
+        "category": "CLOTHES",
+        "price": 250.4
+      },
+      {
+        "name": "MICROWAVE",
+        "category": "AGD",
+        "price": 2050.3
+      },
+      {
+        "name": "TOMATOES",
+        "category": "FOOD",
+        "price": 6.4
+      },
+      {
+        "name": "TOMATOES",
+        "category": "FOOD",
+        "price": 3.0
+      },
+      {
+        "name": "JACKET",
+        "category": "CLOTHES",
+        "price": 154.9
+      },
+      {
+        "name": "BREAD",
+        "category": "FOOD",
+        "price": 6.5
+      },
+      {
+        "name": "RICE",
+        "category": "FOOD",
+        "price": 5.6
+      }
+    ]
+  },
+  {
+    "customer": {
+      "firstName": "Queen",
+      "lastName": "Ruecker",
+      "age": 61,
+      "cash": 3640.6
+    },
+    "products": [
+      {
+        "name": "It",
+        "category": "BOOKS",
+        "price": 26.4
+      },
+      {
+        "name": "JACKET",
+        "category": "CLOTHES",
+        "price": 110.3
+      },
+      {
+        "name": "It",
+        "category": "BOOKS",
+        "price": 50.1
+      },
+      {
+        "name": "TSHIRT",
+        "category": "CLOTHES",
+        "price": 123.1
+      },
+      {
+        "name": "Cat food",
+        "category": "PETS",
+        "price": 18.3
+      },
+      {
+        "name": "Cat toy",
+        "category": "PETS",
+        "price": 17.2
+      }
+    ]
+  },
+  {
+    "customer": {
+      "firstName": "Stacia",
+      "lastName": "Cummerata",
+      "age": 72,
+      "cash": 3454.0
+    },
+    "products": [
+      {
+        "name": "DISHWASHER",
+        "category": "AGD",
+        "price": 1303.8
+      },
+      {
+        "name": "Broken Glass",
+        "category": "BOOKS",
+        "price": 31.4
+      },
+      {
+        "name": "OVEN",
+        "category": "AGD",
+        "price": 1765.3
+      },
+      {
+        "name": "Harvest",
+        "category": "BOOKS",
+        "price": 35.5
+      },
+      {
+        "name": "LETTUCE",
+        "category": "FOOD",
+        "price": 2.1
+      },
+      {
+        "name": "The Lord of the Rings",
+        "category": "BOOKS",
+        "price": 38.3
+      },
+      {
+        "name": "RICE",
+        "category": "FOOD",
+        "price": 4.6
+      },
+      {
+        "name": "Cat food",
+        "category": "PETS",
+        "price": 35.6
+      },
+      {
+        "name": "DRAWER",
+        "category": "FURNITURE",
+        "price": 234.5
+      },
+      {
+        "name": "Harvest",
+        "category": "BOOKS",
+        "price": 30.5
+      },
+      {
+        "name": "BED",
+        "category": "FURNITURE",
+        "price": 1165.8
+      },
+      {
+        "name": "TEA",
+        "category": "FOOD",
+        "price": 2.0
+      },
+      {
+        "name": "OVEN",
+        "category": "AGD",
+        "price": 2497.7
+      },
+      {
+        "name": "Dog toy",
+        "category": "PETS",
+        "price": 19.9
+      },
+      {
+        "name": "Leash",
+        "category": "PETS",
+        "price": 37.7
+      }
+    ]
+  },
+  {
+    "customer": {
+      "firstName": "Codi",
+      "lastName": "Metz",
+      "age": 39,
+      "cash": 705.2
+    },
+    "products": [
+      {
+        "name": "JACKET",
+        "category": "CLOTHES",
+        "price": 162.9
+      },
+      {
+        "name": "MILK",
+        "category": "FOOD",
+        "price": 5.9
+      },
+      {
+        "name": "HAM",
+        "category": "FOOD",
+        "price": 5.6
+      },
+      {
+        "name": "JACKET",
+        "category": "CLOTHES",
+        "price": 131.1
+      },
+      {
+        "name": "RICE",
+        "category": "FOOD",
+        "price": 3.7
+      },
+      {
+        "name": "APPLE",
+        "category": "FOOD",
+        "price": 5.0
+      },
+      {
+        "name": "Leash",
+        "category": "PETS",
+        "price": 44.0
+      },
+      {
+        "name": "SHIRT",
+        "category": "CLOTHES",
+        "price": 202.1
+      }
+    ]
+  },
+  {
+    "customer": {
+      "firstName": "Margeret",
+      "lastName": "Grady",
+      "age": 51,
+      "cash": 1676.1
+    },
+    "products": [
+      {
+        "name": "OVEN",
+        "category": "AGD",
+        "price": 2900.9
+      },
+      {
+        "name": "Collar",
+        "category": "PETS",
+        "price": 29.2
+      },
+      {
+        "name": "LETTUCE",
+        "category": "FOOD",
+        "price": 6.2
+      },
+      {
+        "name": "WASHER",
+        "category": "AGD",
+        "price": 2622.5
+      },
+      {
+        "name": "TABLE",
+        "category": "FURNITURE",
+        "price": 689.5
+      },
+      {
+        "name": "TABLE",
+        "category": "FURNITURE",
+        "price": 1100.9
+      },
+      {
+        "name": "SHOES",
+        "category": "CLOTHES",
+        "price": 77.8
+      },
+      {
+        "name": "DRYER",
+        "category": "AGD",
+        "price": 2226.8
+      },
+      {
+        "name": "Cat food",
+        "category": "PETS",
+        "price": 40.7
+      },
+      {
+        "name": "Dog food",
+        "category": "PETS",
+        "price": 19.6
+      },
+      {
+        "name": "WATER",
+        "category": "FOOD",
+        "price": 3.2
+      }
+    ]
+  }
+]
